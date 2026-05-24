@@ -1,0 +1,85 @@
+aid: zap-energy
+name: Zap Energy
+description: >-
+  Zap Energy is a Seattle, Washington fusion energy company pursuing
+  commercial fusion power via the sheared-flow-stabilized Z-pinch — a
+  compact, magnet-free pulsed-power approach in which a flowing column
+  of deuterium plasma is compressed (pinched) to fusion conditions
+  inside a roughly two-meter metal tube, with shear in the axial flow
+  stabilizing the pinch in place of the heavy superconducting magnets
+  used by tokamak and stellarator designs. Founded in 2017 by Benj
+  Conway, Brian A. Nelson, and Uri Shumlak as a spinout of University
+  of Washington and Lawrence Livermore National Laboratory research,
+  the company has developed a lineage of devices — ZaP, ZaP-HD, FuZE,
+  FuZE-Q, and FuZE-3 — culminating in 2024 with Century, a 100-kW-scale
+  repetitive pulsed-power test platform with liquid-metal walls
+  intended to demonstrate plant-relevant technologies. In November
+  2025 FuZE-3 reported plasma electron pressures of 830 MPa
+  (1.6 GPa total), the highest pressure measured in any
+  sheared-flow-stabilized Z-pinch and a marker on the path to
+  scientific energy gain (Q>1). Zap Energy was selected for the U.S.
+  Department of Energy's Milestone-Based Fusion Development Program in
+  May 2023 and received DOE approval of the preconceptual design of
+  its Fusion Pilot Plant. The company has raised over $325 million
+  across Series A–D from Breakthrough Energy Ventures, Lowercarbon
+  Capital, Energy Impact Partners, Chevron Technology Ventures, Shell
+  Ventures, DCVC, Valor Equity Partners, and Addition. As of April
+  2026, Zabrina Johal serves as CEO with Conway as President, and the
+  company has expanded its mandate to also pursue small modular
+  fission alongside its fusion roadmap. Zap Energy has no public
+  developer API, SDK, GitHub organization, or open-source release;
+  the technical surface is published as peer-reviewed papers and DOE
+  milestone reports.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Fusion
+  - Fusion Energy
+  - Nuclear Fusion
+  - Z-Pinch
+  - Sheared-Flow-Stabilized Z-Pinch
+  - Pulsed Power
+  - Plasma Physics
+  - FuZE
+  - FuZE-Q
+  - FuZE-3
+  - Century
+  - Fusion Pilot Plant
+  - Liquid Metal Walls
+  - Clean Energy
+  - Climate Tech
+  - DOE Milestone Program
+  - Energy
+url: https://raw.githubusercontent.com/api-evangelist/zap-energy/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.zapenergy.com
+  - type: LegacyWebsite
+    url: https://legacy.zapenergy.com
+  - type: News
+    url: https://www.zapenergy.com/news
+  - type: TechnicalPaper
+    url: https://www.zapenergy.com/news/zap-energy-exceeds-gigapascal-fusion-plasma-pressures-on-new-fusion-device-fuze-3
+  - type: CenturyOverview
+    url: https://www.zapenergy.com/news/lightning-strikes-12-times-per-minute-century
+  - type: Careers
+    url: https://ats.rippling.com/zap-energy-careers/jobs
+  - type: Contact
+    url: mailto:reachout@zap.energy
+  - type: Twitter
+    url: https://twitter.com/Energy_Zap
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/zap-energy
+  - type: YouTube
+    url: https://www.youtube.com/@Zap_Energy
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Zap_Energy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
