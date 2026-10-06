@@ -76,10 +76,12 @@ tags:
   - Energy
 url: https://raw.githubusercontent.com/api-evangelist/zap-energy/refs/heads/main/apis.yml
 created: '2026-05-24'
-modified: '2026-05-24'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://legacy.zapenergy.com/blog/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/zap-energy-domain-security.yml
   - type: Website
